@@ -1,0 +1,16 @@
+{
+    "name": "cml/movierating",
+    "description": "sample project",
+    "authors": [
+        {
+            "name": "ML Chua",
+            "email": "chuaml@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
